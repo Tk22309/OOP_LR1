@@ -51,7 +51,6 @@
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.label12 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox7 = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
@@ -77,16 +76,17 @@
             this.btn5_1 = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.tabPage6 = new System.Windows.Forms.TabPage();
+            this.label19 = new System.Windows.Forms.Label();
             this.btn6_1 = new System.Windows.Forms.Button();
             this.Lbl_6_1 = new System.Windows.Forms.Label();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.tabPage7 = new System.Windows.Forms.TabPage();
-            this.label19 = new System.Windows.Forms.Label();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.label20 = new System.Windows.Forms.Label();
-            this.btn_7 = new System.Windows.Forms.Button();
-            this.Text_7 = new System.Windows.Forms.TextBox();
             this.Lbl_7 = new System.Windows.Forms.Label();
+            this.Text_7 = new System.Windows.Forms.TextBox();
+            this.btn_7 = new System.Windows.Forms.Button();
+            this.label20 = new System.Windows.Forms.Label();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -337,35 +337,25 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox7
-            // 
-            this.textBox7.Location = new System.Drawing.Point(180, 227);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(108, 20);
-            this.textBox7.TabIndex = 8;
-            this.textBox7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox7_KeyPress);
-            // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(180, 204);
+            this.textBox6.Location = new System.Drawing.Point(180, 230);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(108, 20);
-            this.textBox6.TabIndex = 7;
-            this.textBox6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox6_KeyPress);
+            this.textBox6.Size = new System.Drawing.Size(100, 20);
+            this.textBox6.TabIndex = 12;
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(180, 162);
+            this.textBox5.Location = new System.Drawing.Point(180, 204);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(108, 20);
-            this.textBox5.TabIndex = 6;
-            this.textBox5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox5_KeyPress);
+            this.textBox5.Size = new System.Drawing.Size(100, 20);
+            this.textBox5.TabIndex = 13;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(180, 139);
+            this.textBox4.Location = new System.Drawing.Point(180, 136);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(108, 20);
+            this.textBox4.Size = new System.Drawing.Size(100, 20);
             this.textBox4.TabIndex = 5;
             this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox4_KeyPress);
             // 
@@ -586,6 +576,15 @@
             this.tabPage6.Text = "Ex6";
             this.tabPage6.UseVisualStyleBackColor = true;
             // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(275, 124);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(76, 26);
+            this.label19.TabIndex = 3;
+            this.label19.Text = "a=[-2,-1,0,1,2] \r\nb=[ 0,1,2,3,4 ]";
+            // 
             // btn6_1
             // 
             this.btn6_1.Location = new System.Drawing.Point(278, 163);
@@ -628,32 +627,20 @@
             this.tabPage7.Text = "Ex7";
             this.tabPage7.UseVisualStyleBackColor = true;
             // 
-            // label19
+            // Lbl_7
             // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(275, 124);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(76, 26);
-            this.label19.TabIndex = 3;
-            this.label19.Text = "a=[-2,-1,0,1,2] \r\nb=[ 0,1,2,3,4 ]";
+            this.Lbl_7.Location = new System.Drawing.Point(266, 133);
+            this.Lbl_7.Name = "Lbl_7";
+            this.Lbl_7.Size = new System.Drawing.Size(256, 69);
+            this.Lbl_7.TabIndex = 5;
+            this.Lbl_7.Text = "Lbl_7";
             // 
-            // pictureBox7
+            // Text_7
             // 
-            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
-            this.pictureBox7.Location = new System.Drawing.Point(28, 10);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(735, 43);
-            this.pictureBox7.TabIndex = 0;
-            this.pictureBox7.TabStop = false;
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(172, 69);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(91, 13);
-            this.label20.TabIndex = 1;
-            this.label20.Text = "Write text here =>";
+            this.Text_7.Location = new System.Drawing.Point(269, 66);
+            this.Text_7.Name = "Text_7";
+            this.Text_7.Size = new System.Drawing.Size(175, 20);
+            this.Text_7.TabIndex = 4;
             // 
             // btn_7
             // 
@@ -665,20 +652,30 @@
             this.btn_7.UseVisualStyleBackColor = true;
             this.btn_7.Click += new System.EventHandler(this.btn_7_Click);
             // 
-            // Text_7
+            // label20
             // 
-            this.Text_7.Location = new System.Drawing.Point(269, 66);
-            this.Text_7.Name = "Text_7";
-            this.Text_7.Size = new System.Drawing.Size(175, 20);
-            this.Text_7.TabIndex = 4;
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(172, 69);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(91, 13);
+            this.label20.TabIndex = 1;
+            this.label20.Text = "Write text here =>";
             // 
-            // Lbl_7
+            // pictureBox7
             // 
-            this.Lbl_7.Location = new System.Drawing.Point(266, 133);
-            this.Lbl_7.Name = "Lbl_7";
-            this.Lbl_7.Size = new System.Drawing.Size(256, 69);
-            this.Lbl_7.TabIndex = 5;
-            this.Lbl_7.Text = "Lbl_7";
+            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
+            this.pictureBox7.Location = new System.Drawing.Point(28, 10);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(735, 43);
+            this.pictureBox7.TabIndex = 0;
+            this.pictureBox7.TabStop = false;
+            // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(180, 162);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(100, 20);
+            this.textBox7.TabIndex = 11;
             // 
             // Form1
             // 
@@ -745,7 +742,6 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox4;
@@ -773,6 +769,7 @@
         private System.Windows.Forms.Button btn_7;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.TextBox textBox7;
     }
 }
 

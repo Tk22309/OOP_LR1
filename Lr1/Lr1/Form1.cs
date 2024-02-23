@@ -265,7 +265,7 @@ namespace Lr1
             int countC = CountOccurrences(text, 'c');
 
             // Форматування результату та виведення у Lbl_7.
-            Lbl_7.Text = $"Кількість 'a' : {countA}\nКількість 'b' у : {countB}\nКількість 'c' у : {countC}";
+            Lbl_7.Text = $"Кількість 'a' : {countA}\nКількість 'b' : {countB}\nКількість 'c' : {countC}";
         }
 
         // Функція для підрахунку кількості входжень символа у текстовий рядок.
