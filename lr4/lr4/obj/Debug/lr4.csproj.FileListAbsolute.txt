@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.Form1.resources
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.Properties.Resources.resources
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\lr4\lr4\bin\Debug\lr4.exe.config
+C:\Users\User\Desktop\C#\lr4\lr4\bin\Debug\lr4.exe
+C:\Users\User\Desktop\C#\lr4\lr4\bin\Debug\lr4.pdb
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.exe
+C:\Users\User\Desktop\C#\lr4\lr4\obj\Debug\lr4.pdb
