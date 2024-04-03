@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\bin\Debug\lr5_2.exe.config
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\bin\Debug\lr5_2.exe
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\bin\Debug\lr5_2.pdb
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\lr5_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\lr5_2.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\lr5_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\lr5_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\lr5_2.exe
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\lr5_2.pdb
+C:\Users\User\Desktop\Новая папка\lr5_2\lr5_2\obj\Debug\YourNamespace.YourForm.resources
