@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.Form1.resources
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.Properties.Resources.resources
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rgr\lr10\lr10\bin\Debug\lr10.exe.config
+C:\Users\User\Desktop\rgr\lr10\lr10\bin\Debug\lr10.exe
+C:\Users\User\Desktop\rgr\lr10\lr10\bin\Debug\lr10.pdb
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.exe
+C:\Users\User\Desktop\rgr\lr10\lr10\obj\Debug\lr10.pdb
